@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Swoosh</string>
     <string name="textView">Find a team in your city and dominate the league</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="coed">Co-ed</string>
+    <string name="next">Next</string>
+    <string name="goallin">GO ALL IN</string>
+    <string name="ongoingatall">ON GOING AT ALL</string>
+    <string name="getstarted">GET STARTED</string>
+    <string name="desc">Image Description</string>
+    <string name="desired">Desired League :</string>
+    <string name="iam">I am a :</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
 </resources>
